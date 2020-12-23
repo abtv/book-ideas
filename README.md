@@ -14,6 +14,7 @@
 
 [Как сдвинуть гору Фудзи? Подходы ведущих мировых компаний к поиску талантов / Паундстоун](https://github.com/abtv/book-ideas/blob/master/ideas/how_would_you_move_mount_fuji.md)
 
+[Человеческий фактор: успешные проекты и команды / Том ДеМарко, Тимоти Листер](https://github.com/abtv/book-ideas/blob/master/ideas/peopleware_demarko_lister.md)
 
 ## Навыки
 
