@@ -16,6 +16,9 @@
 
 [Человеческий фактор: успешные проекты и команды / Том ДеМарко, Тимоти Листер](https://github.com/abtv/book-ideas/blob/master/ideas/peopleware_demarko_lister.md)
 
+[Мифический человеко-месяц: как создаются программные системы](https://github.com/abtv/book-ideas/blob/master/ideas/mythical_man_month_brooks.md)
+
+
 ## Навыки
 
 [Как читать книгу / Поварнин](https://github.com/abtv/book-ideas/blob/master/ideas/how_to_read_a_book_povarnin.md)
