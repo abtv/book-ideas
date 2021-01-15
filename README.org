@@ -25,4 +25,4 @@
 
 [[https://github.com/abtv/book-ideas/blob/master/ideas/how_to_read_a_book_povarnin.org][📖 Как читать книгу / Поварнин Сергей]]
 
-[[https://github.com/abtv/book-ideas/blob/master/ideas/education_levenchuk.md][🎓 Образование для образованных / Левенчук Анатолий]]
+[[https://github.com/abtv/book-ideas/blob/master/ideas/education_levenchuk.org][🎓 Образование для образованных / Левенчук Анатолий]]
