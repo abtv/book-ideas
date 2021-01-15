@@ -7,7 +7,7 @@
 
 ** Разработка
 
-[[https://github.com/abtv/book-ideas/blob/master/ideas/code_complete_mcconnell.md][💡 Совершенный код / Макконнелл Стив]]
+[[https://github.com/abtv/book-ideas/blob/master/ideas/code_complete_mcconnell.org][💡 Совершенный код / Макконнелл Стив]]
 
 [[https://github.com/abtv/book-ideas/blob/master/ideas/patterns_of_enterprise_application_architecture_fowler.md][🏢 Шаблоны корпоративных приложений / Фаулер Мартин]]
 
