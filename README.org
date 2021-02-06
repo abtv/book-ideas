@@ -12,6 +12,11 @@
 [[https://github.com/abtv/book-ideas/blob/master/ideas/patterns_of_enterprise_application_architecture_fowler.org][🏢 Шаблоны корпоративных приложений / Фаулер Мартин]]
 
 
+** Теория ограничений
+
+[[https://github.com/abtv/book-ideas/blob/master/ideas/goal_its_not_luck.org][➡️ Цель: дело не в везении / Голдратт Элияху]]
+
+
 ** Люди
 
 [[https://github.com/abtv/book-ideas/blob/master/ideas/peopleware_demarko_lister.org][👥 Человеческий фактор: успешные проекты и команды / ДеМарко Том, Листер Тимоти]]
