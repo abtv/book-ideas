@@ -16,6 +16,8 @@
 
 [[https://github.com/abtv/book-ideas/blob/master/ideas/goal_its_not_luck.org][➡️ Цель: дело не в везении / Голдратт Элияху]]
 
+[[https://github.com/abtv/book-ideas/blob/master/ideas/system_approach_to_continuous_improvement.org][⚙️ Теория ограничений Голдратта. Системный подход к непрерывному совершенствованию / Детмер Уильям]]
+
 
 ** Люди
 
