@@ -30,6 +30,8 @@
 
 [[https://github.com/abtv/book-ideas/blob/master/ideas/how_would_you_move_mount_fuji.org][🗻 Как сдвинуть гору Фудзи? Подходы ведущих мировых компаний к поиску талантов / Паундстоун Уильям]]
 
+[[https://github.com/abtv/book-ideas/blob/master/ideas/elastic_leadership.org][3️⃣ Elastic leadership / Roy Osherove]]
+
 
 ** Теория ограничений и DevOps
 

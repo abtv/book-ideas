@@ -1,0 +1,67 @@
+* 3️⃣ Elastic leadership / Roy Osherove
+
+** What is the goal of a team leader?
+  - Grow the skills of the people in your team to the point of self-organization.
+
+** How does team mode defines a leadership style?
+*** Team modes
+- 1. Survival: your team doesn't have enough time to learn.
+- 2. Learning: your team has time to learn but still has a lack of skill.
+- 3. Self-organizing: your team is performing and you just need to remove obstacles.
+
+*** Leadership styles
+- 1. Command and control.
+- 2. Coach (challenge people).
+- 3. Facilitator (facilitate work).
+
+** What to do in survival mode?
+*** Remove bus factors
+- The primary reason why a team is in survival mode.
+- Bus factor is a constraint, it is a bottleneck of performance.
+- Use pair programming and coaching for at least 30 minutes per day. The less experienced person should do the work and the coach just helps him.
+- Voice code reviews to ask questions.
+- Rotate people on their tasks: let them learn other parts of your project.
+*** Agree on slack time
+- Hero behavior addiction.
+- After some engineering course you need to give your team time for deliberate practice and if you think about 20% of the time then it is NOT enough.
+- To get out of survival mode you need to remove extra commitments and give your team slack time to learn.
+  - Write down all to-do, WIP, and done tasks for the next month.
+  - Find risks: imagine in 6 months this project failed. What is the first reason coming into your mind?
+- You may lose your face but it is a part of being a leader: it is often unpleasant.
+- If your performance is slowed down probably you learning something new.
+- If you see that your team doesn't use version control you just command to use it: otherwise, you will lose a lot of time in meetings.
+- Challenge team members to do something that they like to do to get out of the survival mode.
+- Spend at least 50% of your time either talking or programming with engineers.
+- Ask another guy to do a code review with you. Your goal is to help him to do it right.
+
+** What to do in learning mode?
+*** Go out of your and their comfort zone. Yours is first.
+- Growth is not a linear process: you will lose your performance before you become better.
+- To become better at doing something you will need to practice new skills and it means a ravine of performance degradation.
+- To embrace ravine you need to risk. You must feel very uncomfortable otherwise you are probably not really learning something new.
+- While you need to risk you must mitigate it by talking with all your stakeholders and cancel some tasks to allocate time for learning.
+*** Use commitment language
+- Command and control very rare, only when it is expensive to fix a mistake. Like not using a version control system.
+- Use commitment language: I will spend 4 hours every day this week updating documentation.
+- It is important to promise things that are under your control.
+- Teach team members to use commitment language. If we can't do something we need to say it clear.
+- Good commitment has a clear definition of done. If it is just time spent let's say it.
+*** What are you going to do about it?
+- Ask this question to challenge your colleagues.
+- Give them time to learn new things.
+- Make sure they have full control over what they are committing.
+- Don’t work for them, just help them.
+
+** What to do in self-organization mode?
+*** Organize a clearance meeting every week.
+    - Ask everyone what was not working well last week.
+    - Ask how they are going to fix that. Discuss it.
+    - Ask what was working well. Discuss it.
+*** Work on social and environmental influence.
+    - Manager's authority must be used in survival and sometimes learning mode.
+    - Value overall quality, not just short-term speed.
+    - People may be motivated by managers to work faster because it is difficult to understand it from a manager's perspective.
+    - Explain to managers what long-term impact low quality has.
+*** Set software-oriented AND people-oriented goals.
+    - Treat software problems as people problems.
+    - Spend half of your time communicating with engineers.
